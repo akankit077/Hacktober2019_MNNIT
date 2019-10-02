@@ -2,7 +2,7 @@
 
 #include <stdio.h>
 
-it main()
+int main()
 {
     printf("welcome to github"
 
